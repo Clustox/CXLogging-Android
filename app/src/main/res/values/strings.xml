@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CXLogging</string>
+    <string name="server_not_responding_message">Server is not Responding</string>
+    <string name="no_internet_connection_message">No internet Access, Check your internet connection</string>
+    <string name="connection_time_out_message">Oops! Your Connection Timed Out</string>
+    <string name="auth_failure_message">Oops! BCC Says It Doesn\\\'t Recognize You</string>
+    <string name="network_error_message">Oops! BCC Server Just Messed Up</string>
+    <string name="data_parsing_error">Oops! Data Received Was An Unreadable Mess</string>
+
+</resources>
